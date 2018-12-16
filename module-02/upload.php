@@ -42,3 +42,5 @@ if ($uploadOk == 0) {
     }
 }
 ?>
+
+<a href="index.html">upload another file!</a>
